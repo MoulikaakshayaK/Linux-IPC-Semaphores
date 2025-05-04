@@ -122,8 +122,10 @@ $ ./sem.o
 
 
 $ ipcs
+![alt text](img5/i.png)
 
 
+![alt text](img5/2.png)
 
 
 
